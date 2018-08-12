@@ -10,4 +10,4 @@
 - zTools.clear();强制清除画布上所有对象
 - 具体应用参考代码中的实例
 
-![image](https://github.com/phhui/PqCanvas/tree/master/img/a.gif)
+![image](https://github.com/phhui/PqCanvas/blob/master/img/a.gif)

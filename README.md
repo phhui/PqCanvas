@@ -8,4 +8,6 @@
 - param:{delay:"迟延时间/秒",x:"结束X坐标",y:"结束y坐标",width:"结束宽度",height:"结束宽度",sx:"结束裁切X坐标",sy:"结束裁切Y坐标",swidth:"结束裁切宽度",sheight:"结束裁切高度",scaleX:"结束宽度比(翻转)",rotation:"结束旋转角度",alpha:"结束透明度",autoRemove:"动画结束后是否自动移除",onComplete:"动画结束后回调的方法"}
 - 裁切相关参数未完善估计有BUG，其它功能均已在实例中测试过。
 - zTools.clear();强制清除画布上所有对象
-= 具体应用参考代码中的实例
+- 具体应用参考代码中的实例
+
+- ![image](https://github.com/phhui/PqCanvas/tree/master/img/a.gif)
